@@ -1,0 +1,15 @@
+{
+  "name": "awspromiseie",
+  "authors": [
+    "agustinplaza <apa@googling.barcelona>"
+  ],
+  "description": "Promise js library for ie.",
+  "main": "lib/PromiseIE.js",
+  "keywords": [
+    "promises",
+    "js",
+    "ie"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/agustinplaza/promise.git"
+}
